@@ -1,2 +1,3 @@
-# PythonandFlask_1
-This was the first web app I created using Python and Flask
+# MyFirstWebApp
+I have created a simple To-do-list with the help of Coursera's guided project. 
+The html files should be under a 'templates' directory as that cannot be changed.
